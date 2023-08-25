@@ -7,4 +7,12 @@
 ### 사용법
 ```bash
 $ pip install samdasoo-content
+
+$ python
+>>> import samdasoo_content.content as sam
+>>> sam.k()
+1.5
+>>> sam.ca()
+2.5
+>>> 
 ```
