@@ -13,3 +13,10 @@ license = {text = "MIT"}
 [build-system]
 requires = ["pdm-backend"]
 build-backend = "pdm.backend"
+
+[project.urls]
+"Homepage" = "https://github.com/dmario24/samdasoo-content"
+"Bug Tracker" = "https://github.com/dmario24/samdasoo-content/issues"
+
+[tool.pdm.dev-dependencies]
+test = ["pytest", "pytest-cov"]
