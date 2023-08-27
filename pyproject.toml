@@ -5,7 +5,12 @@ description = "Let me tell you about Samdasoo, Korea's representative bottled wa
 authors = [
     {name = "dmario24", email = "data.mario24@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "ipykernel>=6.25.1",
+    "requests>=2.31.0",
+    "pandas>=2.0.3",
+    "beautifulsoup4>=4.12.2",
+]
 requires-python = ">=3.9"
 readme = "README.md"
 license = {text = "MIT"}

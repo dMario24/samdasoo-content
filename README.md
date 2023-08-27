@@ -90,3 +90,6 @@ $ pytest -s tests/test_content.py::test_rmrf
               !PBP5Y5&###BPP&B#&&##BPBBBGBBBB####BGGBBBBBB##B&&B#&##&&#&G    
              .JPGGPB5&#PYY5B&BB&&#&&PGBBBGBB######BB##BGGB#&G#&BBB##@&#&#:   
 ```
+
+### ref
+- [BeautifulSoup와 requests로 웹 파싱해보기 – 파이썬 실습](https://library.gabia.com/contents/9239/)
