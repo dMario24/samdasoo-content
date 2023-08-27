@@ -1,6 +1,6 @@
 [project]
 name = "samdasoo-content"
-version = "0.3.0"
+version = "0.4.0"
 description = "Let me tell you about Samdasoo, Korea's representative bottled water."
 authors = [
     {name = "dmario24", email = "data.mario24@gmail.com"},
